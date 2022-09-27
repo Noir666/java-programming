@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class FibonacciExample2
+class Fibo
 {  
 static int n1=0,n2=1,n3=0;    
 static void printFibonacci(int count)
